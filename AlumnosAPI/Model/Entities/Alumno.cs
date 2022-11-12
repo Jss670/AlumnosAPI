@@ -8,5 +8,6 @@ namespace AlumnosAPI.Model.Entities
         public string Nombre { get; set; }
 
         public List<Materia> Materias { get; set; }
+        
     }
 }
